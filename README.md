@@ -4,6 +4,13 @@ Selamat datang di repositori proyek eParking Mall! Proyek ini bertujuan untuk me
 
 ## Daftar Isi
 
+- [Tentang Proyek](#tentang-proyek)
+- [Fitur Utama](#fitur-utama)
+- [Arsitektur](#arsitektur)
+- [Penggunaan](#penggunaan)
+- [Kontribusi](#kontribusi)
+- [Batasan](#batasan)
+  
 ## Tentang Proyek
 
 Pada era digital ini, pengelolaan parkir di pusat perbelanjaan atau mall menjadi semakin penting. Pengembangan web e-parking mall ini adalah solusi relevan untuk mengatasi masalah kemacetan parkir dan meningkatkan pengalaman pengguna. 
