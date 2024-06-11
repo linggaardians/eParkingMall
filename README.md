@@ -8,7 +8,7 @@ Selamat datang di repositori proyek eParking Mall! Proyek ini bertujuan untuk me
 - [Fitur Utama](#fitur-utama)
 - [Arsitektur](#arsitektur)
 - [Penggunaan](#penggunaan)
-- [Kontribusi](#kontribusi)
+- [Kontribusi](#contributor)
 - [Batasan](#batasan)
   
 ## Tentang Proyek
