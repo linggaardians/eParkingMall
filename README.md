@@ -7,12 +7,11 @@ Selamat datang di repositori proyek eParking Mall! Proyek ini bertujuan untuk me
 ## Tentang Proyek
 
 Pada era digital ini, pengelolaan parkir di pusat perbelanjaan atau mall menjadi semakin penting. Pengembangan web e-parking mall ini adalah solusi relevan untuk mengatasi masalah kemacetan parkir dan meningkatkan pengalaman pengguna. 
-
 Berikut ini adalah tujuan yang akan dijadikan fokus dalam proposal ini:
-1.  Meningkatkan kepuasan pelanggan dengan menyediakan akses yang mudah dan cepat untuk menemukan tempat parkir di mall.
-2.  Mengurangi waktu yang dihabiskan untuk mencari tempat parkir dengan mengoptimalkan penggunaan setiap ruang parkir yang tersedia di mall.
-3.  Tujuan lainnya adalah meningkatkan efisiensi operasional bagi pengelola mall dengan mengurangi kemacetan di area parkir dan meningkatkan aliran lalu lintas.
-4.  Mengintegrasikan teknologi baru dalam pengelolaan parkir untuk menciptakan pengalaman yang lebih modern dan efisien bagi pengguna.
+- **Meningkatkan kepuasan pelanggan dengan menyediakan akses yang mudah dan cepat untuk menemukan tempat parkir di mall.
+- **Mengurangi waktu yang dihabiskan untuk mencari tempat parkir dengan mengoptimalkan penggunaan setiap ruang parkir yang tersedia di mall.
+- **Tujuan lainnya adalah meningkatkan efisiensi operasional bagi pengelola mall dengan mengurangi kemacetan di area parkir dan meningkatkan aliran lalu lintas.
+- **Mengintegrasikan teknologi baru dalam pengelolaan parkir untuk menciptakan pengalaman yang lebih modern dan efisien bagi pengguna.
 
 ## Fitur Utama
 - **Pencarian Tempat Parkir**: Memungkinkan pengguna menemukan tempat parkir yang tersedia secara real-time.
