@@ -20,3 +20,9 @@ Berikut ini adalah tujuan yang akan dijadikan fokus dalam proposal ini:
 - **Navigasi ke Tempat Parkir**: Petunjuk arah menuju tempat parkir yang telah dipesan.
 - **Pembayaran Digital**: Memungkinkan pembayaran parkir secara online.
 - **Notifikasi**: Memberikan informasi terkait ketersediaan tempat parkir dan pengingat waktu parkir.
+
+## Arsitektur
+Platform ini terdiri dari beberapa komponen utama:
+- **Frontend**: Dibangun menggunakan HTML, CSS, dan JavaScript (dengan framework seperti Native).
+- **Backend**: Menggunakan Node.js dengan Express untuk API, serta database MySQL.
+- **Keamanan**: Menggunakan password login & register untuk menjaga privasi pengguna.
