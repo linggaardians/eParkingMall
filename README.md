@@ -50,7 +50,8 @@ Team Final Project kami.
 
 ---
 
-Terima kasih telah menggunakan platform eParking Mall! Kami berharap platform ini dapat memberikan manfaat yang signifikan bagi pengelolaan parkir di mall dan meningkatkan pengalaman pengguna.
+Kami berharap platform ini dapat memberikan manfaat yang signifikan bagi pengelolaan parkir di mall dan meningkatkan pengalaman pengguna.
 
+Thanks to Our Team, Tuhan YME, Discord, dan Sepuh kami yang telah membantu Final Project
 
 
