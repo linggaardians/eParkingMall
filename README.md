@@ -26,15 +26,24 @@ Platform ini terdiri dari beberapa komponen utama:
 - **Backend**: Menggunakan Node.js dengan Express untuk API, serta database MySQL.
 - **Keamanan**: Menggunakan password login & register untuk menjaga privasi pengguna.
 
-## Kontribusi
-
-Kami menyambut kontribusi dari kelompok Final Project kami.
-
-
 ## Batasan
-
 Dalam pengembangan platform ini, terdapat beberapa batasan yang perlu diperhatikan:
 - Ketergantungan pada infrastruktur teknologi.
 - Kebijakan dan regulasi terkait privasi data.
 - Ketersediaan akses internet.
 - Keamanan data.
+  
+## Contributor
+Team Final Project kami.
+- Dhimas Baharudin S (dimz720)
+- Asyam Zufar Ahmad (asyamzufar22)
+- Farrel Abrar (farelabrar)
+- M S Lingga Ardiansyah (linggaardians)
+- Moh Zidana Fajrul F (zidanafalah)
+
+---
+
+Terima kasih telah menggunakan platform eParking Mall! Kami berharap platform ini dapat memberikan manfaat yang signifikan bagi pengelolaan parkir di mall dan meningkatkan pengalaman pengguna.
+
+
+
