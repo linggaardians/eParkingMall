@@ -8,10 +8,10 @@ Selamat datang di repositori proyek eParking Mall! Proyek ini bertujuan untuk me
 
 Pada era digital ini, pengelolaan parkir di pusat perbelanjaan atau mall menjadi semakin penting. Pengembangan web e-parking mall ini adalah solusi relevan untuk mengatasi masalah kemacetan parkir dan meningkatkan pengalaman pengguna. 
 Berikut ini adalah tujuan yang akan dijadikan fokus dalam proposal ini:
-- **Meningkatkan kepuasan pelanggan dengan menyediakan akses yang mudah dan cepat untuk menemukan tempat parkir di mall.
-- **Mengurangi waktu yang dihabiskan untuk mencari tempat parkir dengan mengoptimalkan penggunaan setiap ruang parkir yang tersedia di mall.
-- **Tujuan lainnya adalah meningkatkan efisiensi operasional bagi pengelola mall dengan mengurangi kemacetan di area parkir dan meningkatkan aliran lalu lintas.
-- **Mengintegrasikan teknologi baru dalam pengelolaan parkir untuk menciptakan pengalaman yang lebih modern dan efisien bagi pengguna.
+- Meningkatkan kepuasan pelanggan dengan menyediakan akses yang mudah dan cepat untuk menemukan tempat parkir di mall.
+- Mengurangi waktu yang dihabiskan untuk mencari tempat parkir dengan mengoptimalkan penggunaan setiap ruang parkir yang tersedia di mall.
+- Tujuan lainnya adalah meningkatkan efisiensi operasional bagi pengelola mall dengan mengurangi kemacetan di area parkir dan meningkatkan aliran lalu lintas.
+- Mengintegrasikan teknologi baru dalam pengelolaan parkir untuk menciptakan pengalaman yang lebih modern dan efisien bagi pengguna.
 
 ## Fitur Utama
 - **Pencarian Tempat Parkir**: Memungkinkan pengguna menemukan tempat parkir yang tersedia secara real-time.
@@ -25,3 +25,16 @@ Platform ini terdiri dari beberapa komponen utama:
 - **Frontend**: Dibangun menggunakan HTML, CSS, dan JavaScript (dengan framework seperti Native).
 - **Backend**: Menggunakan Node.js dengan Express untuk API, serta database MySQL.
 - **Keamanan**: Menggunakan password login & register untuk menjaga privasi pengguna.
+
+## Kontribusi
+
+Kami menyambut kontribusi dari kelompok Final Project kami.
+
+
+## Batasan
+
+Dalam pengembangan platform ini, terdapat beberapa batasan yang perlu diperhatikan:
+- Ketergantungan pada infrastruktur teknologi.
+- Kebijakan dan regulasi terkait privasi data.
+- Ketersediaan akses internet.
+- Keamanan data.
