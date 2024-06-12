@@ -71,7 +71,7 @@ session_start();
     }
 
     h1 {
-      color: #00A3FF;
+      color: #007c51;
     }
 
     .logo {
@@ -107,7 +107,7 @@ session_start();
     text-align: left;
     margin-left:10%;
     padding-left:0;
-    color: #00A3FF;
+    color: #007c51;
   }
 
     .admin-section {
@@ -119,7 +119,7 @@ session_start();
 
     .admin-section h2 {
       margin-bottom: 20px;
-      color: #00A3FF;
+      color: #007c51;
     }
 
     .admin-section .suspend-user,
@@ -143,7 +143,7 @@ session_start();
     .admin-section .suspend-user button,
     .admin-section .suspend-parking-owner button {
       padding: 10px 40px;
-      background-color: #00A3FF;
+      background-color: #007c51;
       color: white;
       border: none;
       border-radius: 5px;
